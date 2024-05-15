@@ -1,0 +1,53 @@
+
+‘
+java:S1192 "IDefine a constant instead of duplicating this literal "FIGURA: " 3 times.(ŞŸï·üÿÿÿÿ8¦µ¸ƒö1J$74e8bd58-c1dd-4438-be2b-fcfcd36ee02b
+•
+java:S1104"RMake LOGGER a static final constant or non-public and provide accessors if needed.(ß€Ü«8­úœƒö1J$317430ca-0b2f-479c-880a-65518a90bba3
+
+java:S1104"VMake SQL_CREATE a static final constant or non-public and provide accessors if needed.(ûÁ¸÷øÿÿÿÿ8®úœƒö1J$74221313-b0b4-4807-9de3-27958d830143
+
+java:S1104"VMake SQL_INSERT a static final constant or non-public and provide accessors if needed.(”ï”ñÿÿÿÿÿ8®úœƒö1J$ee19a530-a946-47a3-88f6-5034445497dc
+
+java:S1104"VMake SQL_SELECT a static final constant or non-public and provide accessors if needed.(ïŸ¹Æúÿÿÿÿ8õ£±ƒö1J$0bc880cc-3907-4f73-8eed-4507983eaa4e
+¦
+java:S1104"cMake SQL_SELECT_CIRCULO_ROJO a static final constant or non-public and provide accessors if needed.(ş÷ˆ±8·÷°ƒö1J$a2e67e32-c364-4f6c-bf3c-e36000ea5b29
+
+java:S1104"VMake SQL_DELETE a static final constant or non-public and provide accessors if needed.(íÃ¬Šùÿÿÿÿ8¯úœƒö1J$b22801dd-6b07-4e07-afd9-fbc2457d2cd9
+o
+java:S1444",Make this "public static LOGGER" field final(ß€Ü«8±úœƒö1J$45a9d150-4bb0-457a-a5e9-30946e206ad0
+x
+java:S1444"0Make this "public static SQL_CREATE" field final(ûÁ¸÷øÿÿÿÿ8²úœƒö1J$4c29f05a-ba71-44e5-8ba2-e5aa01b0c360
+x
+java:S1444"0Make this "public static SQL_INSERT" field final(”ï”ñÿÿÿÿÿ8²úœƒö1J$d1be8155-baf9-4e14-a70c-924f53ad5663
+x
+java:S1444"0Make this "public static SQL_SELECT" field final(ïŸ¹Æúÿÿÿÿ8ø£±ƒö1J$920333e7-5526-4358-a651-521a8cf840c6
+€
+java:S1444"=Make this "public static SQL_SELECT_CIRCULO_ROJO" field final(ş÷ˆ±8¸÷°ƒö1J$30538d67-eb53-47f1-aa8f-fd8ab9d37f7b
+x
+java:S1444"0Make this "public static SQL_DELETE" field final(íÃ¬Šùÿÿÿÿ8³úœƒö1J$0ea39452-2fb7-4863-ab39-fb019a341b6c
+‹
+java:S2259="HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ8ù¥±ƒö1J$495f7197-96c8-41f1-8bf0-91de57f7dc7a
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ú¥±ƒö1J$7f65900e-cc32-470f-b22c-a6392c38afdf
+”
+java:S3008"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß€Ü«8”ÿœƒö1J$21b9d984-5484-4d35-a04e-f4248b5a93f3
+
+java:S3008"URename this field "SQL_CREATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÁ¸÷øÿÿÿÿ8”ÿœƒö1J$04c7325d-029a-48c0-893d-bbbda77657b4
+
+java:S3008"URename this field "SQL_INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ï”ñÿÿÿÿÿ8”ÿœƒö1J$49decad4-7c1e-4a10-b5a6-e2b11986d836
+
+java:S3008"URename this field "SQL_SELECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŸ¹Æúÿÿÿÿ8ÿ¥±ƒö1J$f1ad0e0f-f9a9-428c-8346-9739f855f54b
+¥
+java:S3008"bRename this field "SQL_SELECT_CIRCULO_ROJO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş÷ˆ±8¿÷°ƒö1J$f64240f9-5a00-4f87-8981-4000fa541eaa
+
+java:S3008"URename this field "SQL_DELETE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃ¬Šùÿÿÿÿ8•ÿœƒö1J$5d798466-70be-42f3-9405-1e1caadad97e
+b
+java:S6905"Don't use the query "SELECT *".(ş÷ˆ±8Šœ³ƒö1J$6e5dcb8c-6ff3-41a4-a3a6-782510192917
+g
+java:S6905"Don't use the query "SELECT *".(ïŸ¹Æúÿÿÿÿ8‡¦±ƒö1J$331c8bd8-2e6c-4b6d-9d16-7e9e6826835b
+g
+java:S6905"Don't use the query "SELECT *".(ïŸ¹Æúÿÿÿÿ8¬º¸ƒö1J$47abdf56-2592-4c3b-8066-6b1ec8b1c04b
+p
+java:S4925F"-Remove this "Class.forName()", it is useless.(›‡ªœ8êö¬ƒö1J$4973b05f-5a12-43e7-856b-062b2974a1a9
+y
+java:S6437G"6Revoke and change this password, as it is compromised.(Ö°Ú8ëö¬ƒö1J$ad3b363f-ce51-4f19-8ed6-27ac8f986414
